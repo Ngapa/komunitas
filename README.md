@@ -195,3 +195,17 @@ Terimakasih Mas Eka sudah membuat Saya makin termotivasi lagi untuk menjadi seor
 
 <hr/>
 
+### Amarulloh
+
+Tentang gue? Gue pun tidak tau tentang diri ini hehe. Yang penting nulis aja lah.
+Berkelahiran di Indonesia, Khususnya Jawa Tengah. Orang yang tidak tau diri dan tidak bertanggungjawab, sukanya membuat orang lain bahagia entah entah dengan cara yang bagaimana. Tapi pada akhirnya tidak bisa membuat orang lain bahagia, udahlah jadi diri sendiri aja susah apalagi membahagiakan orang lain. Prinsipnya adalah 
+> Anda bahagia saya sengsara. Saya sengsara anda bahagia.
+Sedang mendalami bahasa pemrograman Python khususnya di bidang Web Developing, baru perkenalan sih tapi udah membanggakan diri. 
+> " Yang penting percaya diri. " Kata mas Eka Putra
+Udahlah nanti malah dikira orang yang seneng nulis, padahal aslinya engga. Sekian dan terimakasih.
+
+[Ngapa](https://github.com/Ngapa)
+
+
+<hr/>
+
